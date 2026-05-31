@@ -182,7 +182,7 @@ st.sidebar.info(
 # =====================================================
 # API URL
 # =====================================================
-API_URL = "http://127.0.0.1:8000/fitness-advice"
+API_URL = "https://ai-fitness-advisor.onrender.com/fitness-advice"
 
 # =====================================================
 # BUTTON
